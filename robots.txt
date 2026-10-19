@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://genescreativos.github.io/GENES-CREATIVOS/sitemap.xml
-
